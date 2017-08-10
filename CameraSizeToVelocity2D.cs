@@ -3,6 +3,7 @@ using UnityEngine;
 public class CameraSizeToVelocity2D : MonoBehaviour
 {
 	public Rigidbody2D target;
+
 	[SerializeField]
     private float minCam;
 	[SerializeField]
@@ -31,5 +32,3 @@ public class CameraSizeToVelocity2D : MonoBehaviour
             }
      }
 }
-        
-
