@@ -7,7 +7,7 @@
 
 Use this simple script to tie your camera size to the target RigidBodys velocity. In a 2D side-scrolling game this can be used to show you more of the game area when the player is moving faster. 
 
-#Usage
+# Usage
 
 Assign a RigidBody2D component to the target variable, the script uses this objects velocity to determine the size of the camera.
 
